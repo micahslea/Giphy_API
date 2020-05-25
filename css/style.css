@@ -1,0 +1,26 @@
+.title-text {
+  font-family: "Chelsea Market", cursive;
+  font-size: 30px;
+  background: -webkit-linear-gradient(rgb(240, 241, 250), rgb(153, 153, 156));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.actors {
+  font-family: "Chelsea Market", cursive;
+}
+
+#addButton {
+  font-family: "Chelsea Market", cursive;
+}
+
+#addInput {
+  font-family: "Chelsea Market", cursive;
+}
+
+.nav-background {
+  background-image: url("../images/blue-background.jpg");
+}
+body {
+  background-image: url("../images/light-blue-background.jpg");
+}
